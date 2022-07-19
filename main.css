@@ -109,7 +109,7 @@ input:disabled, textarea:disabled, input:disabled::placeholder, textarea:disable
 
 .BGFLICK {
     background: rgb(130, 42, 203);
-    background: linear-gradient(180deg, rgba(130, 42, 203, 1) 20%, rgba(179, 120, 227, 1) 80%);
+    background: linear-gradient(180deg, rgba(13, 42, 203, 1) 20%, rgba(17, 120, 227, 1) 80%);
 }
 
 #GEAR {
